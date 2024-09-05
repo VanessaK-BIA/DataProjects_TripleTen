@@ -17,7 +17,9 @@ Education,
 Gender, 
 Age
 and Sales. 
-Presented in the data the following have been proven true based upon the data:
+
+
+CONCLUSION: Presented in the data the following have been proven true based upon the data:
 
 Single, College aged (22-25) Men ,
 who are predominantly Unemployed make up the largest demographic of Zomatos client / customer base with the highest amount of Sales.
