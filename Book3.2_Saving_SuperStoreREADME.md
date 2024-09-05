@@ -10,7 +10,7 @@ GOAL:
 To review multiple area's of interest in order to ascertain what could be causing the losses before the company files for bankruptcy.
 
 STARTING POINT:
-the following categories up for review :
+the following categories are up for review :
 
 - Profits and Losses ,
 
