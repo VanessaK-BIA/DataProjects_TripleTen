@@ -1,4 +1,4 @@
-[Tableau]https://public.tableau.com/app/profile/vanessa.armstead/viz/Superstore_Book3_2/Dashboard1
+[TABLEAU]https://public.tableau.com/app/profile/vanessa.armstead/viz/Superstore_Book3_2/Dashboard1
 
 
 PROJECT : 
